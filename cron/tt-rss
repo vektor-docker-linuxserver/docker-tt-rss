@@ -1,1 +1,0 @@
-*/10 * * * * abc /usr/local/bin/update.sh

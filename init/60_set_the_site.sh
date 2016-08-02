@@ -9,4 +9,3 @@ git clone https://tt-rss.org/git/tt-rss.git /config/www/tt-rss && chown -R abc:a
 cd /config/www/tt-rss
 git pull
 chown -R abc:abc /config/www
-
